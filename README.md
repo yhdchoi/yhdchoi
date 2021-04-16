@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Daniel ' @yhdchoi '
+- 👋 Hi, I’m Daniel '@yhdchoi'
 - 👀 I’m interested in FullStack Development.
-- 🌱 I’m currently learning SpringFramework & Docker.
+- 🌱 I’m currently learning SpringBoot, Docker & AWS.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me yhdchoi@gmail.com.
 
